@@ -21,6 +21,8 @@
     "@babel/core": "^7.26.10",
     "@babel/node": "^7.26.0",
     "@babel/preset-env": "^7.26.9",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.3",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.10",
