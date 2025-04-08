@@ -13,6 +13,8 @@ let initWebRouters = (app) => {
 
     router.post('/post-crud',homecontroller.postCRUD);
 
+    router.get('/get-crud',homecontroller.displayGetCRUD);
+
     return app.use('/', router);
 
 }
