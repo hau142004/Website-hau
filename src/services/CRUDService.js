@@ -97,10 +97,10 @@ let deleteUserById = (userId) => {
             });
             if (user) {
                 await user.destroy();
-              
-            } 
-                resolve();
-            
+
+            }
+            resolve();
+
         } catch (e) {
             reject(e);
         }
@@ -112,6 +112,6 @@ module.exports = {
     getAllUser: getAllUser,
     getUserinfoById: getUserinfoById,
     updateUserData: updateUserData,
-    deleteUserById:deleteUserById,
+    deleteUserById: deleteUserById,
 
 }
