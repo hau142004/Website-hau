@@ -2,7 +2,7 @@ Công nghệ sử dụng
 ✔ Frontend: Reactjs + Redux. HTML/CSS-scss/Bootstrap4 (reactrap)
 ✔ Backend: Node.js (Express) + MySql (Sequelize)
 
-🐱‍🏍Các câu lệnh mình sử dụng trong video này: (lưu ý sử dụng Node.js Vesion 14.7)
+🐱‍🏍Các câu lệnh mình sử dụng : (lưu ý sử dụng Node.js Vesion 14.7)
 👉 npm install --save body-parser@1.19.0 dotenv@8.2.0 ejs@3.1.5 express@4.17.1
 
 👉 npm install --save-dev @babel/core@7.12.10 @babel/preset-env@7.12.10 
